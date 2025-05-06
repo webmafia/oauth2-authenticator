@@ -1,0 +1,14 @@
+dev.azure.com/eriksfonsterputs/EF/_git/auth.git v0.0.5 h1:uLt3YXwq1XmrAElE4EmrFCL7re7x3+/7wLkNHpQ5J3s=
+dev.azure.com/eriksfonsterputs/EF/_git/auth.git v0.0.5/go.mod h1:eCZKPQALYT/z4aWjXXU+VTX/ZNYwwQoaw1hnDz4tOtU=
+github.com/MicahParks/jwkset v0.9.5 h1:/baA2n7RhO7nRIe1rx4ZX1Opeq+mwDuuWi2myDZwqnA=
+github.com/MicahParks/jwkset v0.9.5/go.mod h1:U2oRhRaLgDCLjtpGL2GseNKGmZtLs/3O7p+OZaL5vo0=
+github.com/MicahParks/keyfunc/v3 v3.3.11 h1:eA6wNltwdSRX2gtpTwZseBCC9nGeBkI9KxHtTyZbDbo=
+github.com/MicahParks/keyfunc/v3 v3.3.11/go.mod h1:y6Ed3dMgNKTcpxbaQHD8mmrYDUZWJAxteddA6OQj+ag=
+github.com/gofrs/uuid v4.4.0+incompatible h1:3qXRTX8/NbyulANqlc0lchS1gqAVxRgsuW1YrTJupqA=
+github.com/gofrs/uuid v4.4.0+incompatible/go.mod h1:b2aQJv3Z4Fp6yNu3cdSllBxTCLRxnplIgP/c0N/04lM=
+github.com/golang-jwt/jwt/v5 v5.2.2 h1:Rl4B7itRWVtYIHFrSNd7vhTiz9UpLdi6gZhZ3wEeDy8=
+github.com/golang-jwt/jwt/v5 v5.2.2/go.mod h1:pqrtFR0X4osieyHYxtmOUWsAWrfe1Q5UVIyoH402zdk=
+github.com/webmafia/fast v0.16.0 h1:/BmqbyfZInvGXuRqnWI43nwSSX8lte7ouey44o0rjWg=
+github.com/webmafia/fast v0.16.0/go.mod h1:MjWuDwKdCP1APS96wqOlQ9ZU5gqPmHfstQgDYGpG0pQ=
+golang.org/x/time v0.9.0 h1:EsRrnYcQiGH+5FfbgvV4AP7qEZstoyrHB0DzarOQ4ZY=
+golang.org/x/time v0.9.0/go.mod h1:3BpzKBy/shNhVucY/MWOyx10tF3SFh9QdLuxbVysPQM=
