@@ -9,7 +9,7 @@ require (
 	github.com/MicahParks/keyfunc/v3 v3.3.11
 	github.com/gofrs/uuid v4.4.0+incompatible
 	github.com/golang-jwt/jwt/v5 v5.2.2
-	github.com/webmafia/fast v0.16.0
+	github.com/webmafia/fast v0.17.0
 )
 
 require golang.org/x/time v0.9.0 // indirect

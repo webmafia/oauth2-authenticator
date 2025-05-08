@@ -27,12 +27,12 @@ func (t Token) GetAudience() (jwt.ClaimStrings, error) {
 
 // GetExpirationTime implements jwt.Claims.
 func (t Token) GetExpirationTime() (*jwt.NumericDate, error) {
-	return fast.NoescapeVal(&t.ExpiresAt), nil
+	return fast.Noescape(&t.ExpiresAt), nil
 }
 
 // GetIssuedAt implements jwt.Claims.
 func (t Token) GetIssuedAt() (*jwt.NumericDate, error) {
-	return fast.NoescapeVal(&t.IssuedAt), nil
+	return fast.Noescape(&t.IssuedAt), nil
 }
 
 // GetIssuer implements jwt.Claims.
