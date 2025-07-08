@@ -30,7 +30,9 @@ func NewFromHTTP(ctx context.Context, remoteJWKSetURL string, interval time.Dura
 		url:          remoteJWKSetURL,
 	}
 
-	go s.worker(interval, errorHandler)
+	if interval >= 0 && errorHandler != nil {
+		go s.worker(interval, errorHandler)
+	}
 
 	return s
 }
