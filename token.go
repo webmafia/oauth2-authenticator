@@ -18,6 +18,9 @@ type Token struct {
 	AuthContext string          `json:"acr"`
 	FirstName   string          `json:"given_name"`
 	LastName    string          `json:"family_name"`
+	Actor       struct {
+		Subject TextualInt `json:"sub"`
+	} `json:"act"`
 }
 
 // GetAudience implements jwt.Claims.
